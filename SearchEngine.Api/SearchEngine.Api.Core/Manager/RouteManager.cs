@@ -42,31 +42,39 @@ namespace SearchEngine.Api.Core.Manager
 
                 var shortestRoute = routes.Where(x => x.Destination.Equals(destIATA));
                 if (shortestRoute.Count() > 0)
-                    flights.Add($"{_airlineManager.GetFlightName(shortestRoute.First().AirlineId)} ({sourceIATA} - {destIATA})");
+                    flights.Add(GetFlightName(shortestRoute.First().AirlineId, sourceIATA, destIATA));
                 else
                 {
                     foreach (var route in routes)
                     {
+                        //maintain routePath with IATA codes so to track cycle or max number of routes
                         var routePath = new List<string>(path);
                         routePath.Add(route.Destination);
-                        List<string> fl = new List<string> { $"{_airlineManager.GetFlightName(route.AirlineId)} ({sourceIATA} - {route.Destination})" };
-                        var fl1 = FindShortestRoute(route.Destination, destIATA, routePath);
-                        if (fl1.Count() > 0)
+
+                        //get shortest route with this route's destination as source till destIATA
+                        var routeFlights = new List<string> { GetFlightName(route.AirlineId, sourceIATA, route.Destination) };
+                        var shortestRouteFlights = FindShortestRoute(route.Destination, destIATA, routePath);
+                        if (shortestRouteFlights.Count() > 0)
                         {
-                            fl.AddRange(fl1);
-                            if(fl.Count() == 2)
+                            routeFlights.AddRange(shortestRouteFlights);
+                            if (routeFlights.Count() == 2)
                             {
-                                flights = fl;
+                                flights = routeFlights;
                                 break;
                             }
-                            else if ((flights.Count() == 0) || (flights.Count() > 0 && fl.Count() < flights.Count()))
-                                flights = fl;
+                            else if ((flights.Count() == 0) || (flights.Count() > 0 && routeFlights.Count() < flights.Count()))
+                                flights = routeFlights;
                         }
                     }
                 }
 
             }
             return flights;
+        }
+
+        private string GetFlightName(string airlineId, string source, string dest)
+        {
+            return $"{_airlineManager.GetFlightName(airlineId)} ({source} - {dest})";
         }
     }
 }
