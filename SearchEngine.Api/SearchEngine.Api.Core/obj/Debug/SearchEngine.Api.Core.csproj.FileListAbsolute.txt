@@ -1,0 +1,14 @@
+C:\Users\Syeda Anisa Gohar\Documents\Interview\SalesLogix\SearchEngine.Api\SearchEngine.Api.Core\bin\Debug\SearchEngine.Api.Core.dll
+C:\Users\Syeda Anisa Gohar\Documents\Interview\SalesLogix\SearchEngine.Api\SearchEngine.Api.Core\bin\Debug\SearchEngine.Api.Core.pdb
+C:\Users\Syeda Anisa Gohar\Documents\Interview\SalesLogix\SearchEngine.Api\SearchEngine.Api.Core\bin\Debug\SearchEngine.Api.Infrastructure.dll
+C:\Users\Syeda Anisa Gohar\Documents\Interview\SalesLogix\SearchEngine.Api\SearchEngine.Api.Core\bin\Debug\CsvHelper.dll
+C:\Users\Syeda Anisa Gohar\Documents\Interview\SalesLogix\SearchEngine.Api\SearchEngine.Api.Core\bin\Debug\System.ValueTuple.dll
+C:\Users\Syeda Anisa Gohar\Documents\Interview\SalesLogix\SearchEngine.Api\SearchEngine.Api.Core\bin\Debug\SearchEngine.Api.Infrastructure.pdb
+C:\Users\Syeda Anisa Gohar\Documents\Interview\SalesLogix\SearchEngine.Api\SearchEngine.Api.Core\bin\Debug\SearchEngine.Api.Infrastructure.dll.config
+C:\Users\Syeda Anisa Gohar\Documents\Interview\SalesLogix\SearchEngine.Api\SearchEngine.Api.Core\bin\Debug\CsvHelper.xml
+C:\Users\Syeda Anisa Gohar\Documents\Interview\SalesLogix\SearchEngine.Api\SearchEngine.Api.Core\bin\Debug\System.ValueTuple.xml
+C:\Users\Syeda Anisa Gohar\Documents\Interview\SalesLogix\SearchEngine.Api\SearchEngine.Api.Core\obj\Debug\SearchEngine.Api.Core.csprojAssemblyReference.cache
+C:\Users\Syeda Anisa Gohar\Documents\Interview\SalesLogix\SearchEngine.Api\SearchEngine.Api.Core\obj\Debug\SearchEngine.Api.Core.csproj.CoreCompileInputs.cache
+C:\Users\Syeda Anisa Gohar\Documents\Interview\SalesLogix\SearchEngine.Api\SearchEngine.Api.Core\obj\Debug\SearchEngine.Api.Core.csproj.CopyComplete
+C:\Users\Syeda Anisa Gohar\Documents\Interview\SalesLogix\SearchEngine.Api\SearchEngine.Api.Core\obj\Debug\SearchEngine.Api.Core.dll
+C:\Users\Syeda Anisa Gohar\Documents\Interview\SalesLogix\SearchEngine.Api\SearchEngine.Api.Core\obj\Debug\SearchEngine.Api.Core.pdb

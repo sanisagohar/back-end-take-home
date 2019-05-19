@@ -1,0 +1,16 @@
+C:\Users\Syeda Anisa Gohar\Documents\Interview\SalesLogix\SearchEngine.Api\SearchEngine.Api.Infrastructure\bin\Debug\SearchEngine.Api.Infrastructure.dll.config
+C:\Users\Syeda Anisa Gohar\Documents\Interview\SalesLogix\SearchEngine.Api\SearchEngine.Api.Infrastructure\bin\Debug\SearchEngine.Api.Infrastructure.dll
+C:\Users\Syeda Anisa Gohar\Documents\Interview\SalesLogix\SearchEngine.Api\SearchEngine.Api.Infrastructure\bin\Debug\SearchEngine.Api.Infrastructure.pdb
+C:\Users\Syeda Anisa Gohar\Documents\Interview\SalesLogix\SearchEngine.Api\SearchEngine.Api.Infrastructure\bin\Debug\CsvHelper.dll
+C:\Users\Syeda Anisa Gohar\Documents\Interview\SalesLogix\SearchEngine.Api\SearchEngine.Api.Infrastructure\bin\Debug\EntityFramework.dll
+C:\Users\Syeda Anisa Gohar\Documents\Interview\SalesLogix\SearchEngine.Api\SearchEngine.Api.Infrastructure\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Syeda Anisa Gohar\Documents\Interview\SalesLogix\SearchEngine.Api\SearchEngine.Api.Infrastructure\bin\Debug\System.ValueTuple.dll
+C:\Users\Syeda Anisa Gohar\Documents\Interview\SalesLogix\SearchEngine.Api\SearchEngine.Api.Infrastructure\bin\Debug\CsvHelper.xml
+C:\Users\Syeda Anisa Gohar\Documents\Interview\SalesLogix\SearchEngine.Api\SearchEngine.Api.Infrastructure\bin\Debug\EntityFramework.xml
+C:\Users\Syeda Anisa Gohar\Documents\Interview\SalesLogix\SearchEngine.Api\SearchEngine.Api.Infrastructure\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Syeda Anisa Gohar\Documents\Interview\SalesLogix\SearchEngine.Api\SearchEngine.Api.Infrastructure\bin\Debug\System.ValueTuple.xml
+C:\Users\Syeda Anisa Gohar\Documents\Interview\SalesLogix\SearchEngine.Api\SearchEngine.Api.Infrastructure\obj\Debug\SearchEngine.Api.Infrastructure.csprojAssemblyReference.cache
+C:\Users\Syeda Anisa Gohar\Documents\Interview\SalesLogix\SearchEngine.Api\SearchEngine.Api.Infrastructure\obj\Debug\SearchEngine.Api.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Syeda Anisa Gohar\Documents\Interview\SalesLogix\SearchEngine.Api\SearchEngine.Api.Infrastructure\obj\Debug\SearchEngine.Api.Infrastructure.csproj.CopyComplete
+C:\Users\Syeda Anisa Gohar\Documents\Interview\SalesLogix\SearchEngine.Api\SearchEngine.Api.Infrastructure\obj\Debug\SearchEngine.Api.Infrastructure.dll
+C:\Users\Syeda Anisa Gohar\Documents\Interview\SalesLogix\SearchEngine.Api\SearchEngine.Api.Infrastructure\obj\Debug\SearchEngine.Api.Infrastructure.pdb

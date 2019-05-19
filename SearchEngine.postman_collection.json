@@ -1,0 +1,39 @@
+{
+	"info": {
+		"_postman_id": "b24393dc-5ff7-4c2a-9d5a-ee83d126ed01",
+		"name": "SearchEngine",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "http://localhost:52714/api/search?origin=ABJ&destination=BGI",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:52714/api/search?origin=ABJ&destination=kn",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "52714",
+					"path": [
+						"api",
+						"search"
+					],
+					"query": [
+						{
+							"key": "origin",
+							"value": "ABJ"
+						},
+						{
+							"key": "destination",
+							"value": "kn"
+						}
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

@@ -1,0 +1,18 @@
+ABJ 
+BRU
+COO
+ABJ
+
+
+ABJ
+BRU
+BJM
+NBO
+BRU
+
+http://localhost:52714/api/search?origin=ABJ&destination=BGI
+"Result": [
+        "Air China (ABJ - BRU)",
+        "Air China (BRU - YYZ)",
+        "Air China (YYZ - BGI)"
+    ]
