@@ -30,4 +30,4 @@
 ### Correction in data
 
 - Removed trailing space in Latitude column to be read in CSV otherwise application will throw exception.
-- Corrected Air Chine 2 digit code as CA as CA is being used in routes.csv as Airline Id.
+- Corrected Air Chine 2 digit code to CA as CA is being used in routes.csv as Airline Id.
