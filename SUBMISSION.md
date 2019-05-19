@@ -1,15 +1,18 @@
 ### How to run this application
 
 - Visual Studio 2017 will be needed to run this application.
-- Open Visual Studio and Run.
-- Once application is launched in browser end point can be test through any API testing tool. I used Postman and also checked in Postman collection.
-- /api/search?origin=Abidjan&destination=kn
+- Open solution file 'SearchEngine.Api.sln' in SearchEngine.Api folder in Visual Studio.
+- Open Web.Config file of project 'SearchEngine.Api' and set folder path of data i.e. csv files in for Key 'DataRepositoryPath'.
+- Right click this project and select 'Set As StartUp Project' and Run (press F5)
+- Once application is launched in browser and you can see ASP.net page, end point can be test through any API testing tool. I used Postman and also checked-in Postman collection on Git.
+- API end point is /api/search?origin=Abidjan&destination=kn
 
 ### How to run unit tests
 
+- Open App.Config file of project 'SearchEngine.Api.Tests' and set folder path of data i.e. csv files for Key 'DataRepositoryPath'.
 - Build application in Visual Studio by 'Build -> Build Solution' or by pressing F6.
 - Open Test Explorer by 'Test -> Windows -> Test Explorer' or by pressing Ctrl+E,T.
-- Test Explorer will be listing all unit tests in ServiceTest.cs in test project SearchEngine.Api.Tests
+- Test Explorer will be listing all unit tests in ServiceTest.cs in test project 'SearchEngine.Api.Tests'
 - Click Run All to run all the tests in there.
 
 ### Assumptions
